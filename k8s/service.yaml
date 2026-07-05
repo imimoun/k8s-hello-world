@@ -27,4 +27,4 @@ spec:
           service:
             name: python-app-service
             port:
-              number: 8
+              number: 80
