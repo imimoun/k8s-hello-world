@@ -6,5 +6,5 @@ app = FastAPI()
 def read_root():
     return {
         "status": "success",
-        "message": "Hello World v1",
+        "message": "Hello World v2",
     }
